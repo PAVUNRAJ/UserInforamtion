@@ -1,0 +1,6 @@
+framework module Pods_UserInfo {
+  umbrella header "Pods-UserInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}
